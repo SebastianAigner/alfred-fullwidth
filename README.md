@@ -2,7 +2,7 @@
 #### Workflow to turn text into ｆｕｌｌ　ｗｉｄｔｈ　ｃｈａｒａｃｔｅｒｓ
 
 ## How?
-The unicode codepoints are modified so that each regular character is converted to their respective full-width counterpart. This python script is embedded in
+The unicode codepoints are modified so that each regular character is converted to their respective full-width counterpart. This python script is embedded in the Alfred 3 workflow, and can be imported with a single click. Type `fw foobar` and Alfred will paste `ｆｏｏｂａｒ` at your current cursor location.
 
 The icon (a true work of art... 😉) is the result of a few seconds in Pixelmator, displays an "Open box" which is used to indicate spaces when explicitly noting them down (e.g. pen-and-paper).
 
