@@ -1,5 +1,5 @@
 # alfred-fullwidth
-#### Workflow to turn text into full width characters
+#### Workflow to turn text into ｆｕｌｌ　ｗｉｄｔｈ　ｃｈａｒａｃｔｅｒｓ
 
 ## How?
 The unicode codepoints are modified so that each regular character is converted to their respective full-width counterpart. This python script is embedded in
